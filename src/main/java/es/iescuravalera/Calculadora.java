@@ -4,9 +4,9 @@ public class Calculadora {
     private int num1;
     private int num2;
 
-    public Calculadora(int a, int b) {
-        num1 = a;
-        num2 = b;
+    public Calculadora(int n1, int n2) {
+        num1 = n1;
+        num2 = n2;
     }
 
     public int suma() {
