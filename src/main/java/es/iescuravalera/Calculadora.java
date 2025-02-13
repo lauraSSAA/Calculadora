@@ -10,7 +10,7 @@ public class Calculadora {
     }
 
     public int suma() {
-        int resul = num1 + num2;
+        int resul =  num1 + num2;
         return resul;
     }
     public int resta() {
