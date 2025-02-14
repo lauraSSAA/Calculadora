@@ -5,8 +5,8 @@ public class Calculadora {
     private int num2;
 
     public Calculadora(int num1, int num2) {
-        num1 = a;
-        num2 = b;
+        this.num1 = num1;
+        this.num2 = num2;
     }
 
     public int suma() {
